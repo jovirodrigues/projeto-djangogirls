@@ -1,0 +1,4 @@
+.dockerignore
+dkdata
+static
+db.sqlite3
